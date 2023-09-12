@@ -61,7 +61,6 @@ public class jaguar {
         return velocidadeTerra;
     }
 
-
     public void setVelocidadeTerra(double velocidadeTerra) {
         this.velocidadeTerra = velocidadeTerra;
     }

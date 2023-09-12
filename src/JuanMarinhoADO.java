@@ -20,7 +20,6 @@ public class JuanMarinhoADO {
 
         animal.acelerarTerra();
 
-
         JOptionPane.showMessageDialog(null,"Velocidade em Terra: " +animal.getVelocidadeTerra() + "km");
     }
 }
